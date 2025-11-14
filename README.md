@@ -2,15 +2,15 @@
 
 A new Flutter project.
 
-## Getting Started
+Contributor: Shubham Yadav
 
-This project is a starting point for a Flutter application.
+Role: UI Developer & Localization  
+Work Done:
+- Implemented the KrishiSetu module UI  
+- Added Nepali localization using JSON  
+- Worked on Home, Chat Assist, Experts, Tools, and Profile screens  
+- Improved layout structure and organized screens/widgets  
+- Assisted in documentation and testing
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
